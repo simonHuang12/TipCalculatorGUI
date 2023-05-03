@@ -1,3 +1,6 @@
 public class Main {
-    CalculatorGUI gui = new CalculatorGUI();
+    public static void main(String[] args){
+        System.out.println("dog");
+        CalculatorGUI calc = new CalculatorGUI();
+    }
 }
